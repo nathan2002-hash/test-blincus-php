@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'blincus/blincus-php',
-        'pretty_version' => '1.0',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '7de4e02342a2f2288706127db869c75c238a41ad',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'blincus/blincus-php' => array(
-            'pretty_version' => '1.0',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '7de4e02342a2f2288706127db869c75c238a41ad',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

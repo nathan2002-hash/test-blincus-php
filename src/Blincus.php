@@ -5,8 +5,8 @@ use GuzzleHttp\Client;
 
 class Blincus
 {
-    private $authUrl = 'https://api.blincus.com/api/token';
-    private $transactionUrl = 'https://api.blincus.com/api/sandbox/v1/payment';
+    private $authUrl = 'http://localhost:89/api/token';
+    private $transactionUrl = 'http://localhost:89/api/sandbox/v1/payment';
     private $client;
     private $email;
     private $password;
